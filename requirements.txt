@@ -5,3 +5,4 @@ mwcli
 mwxml
 deltas
 para
+more-itertools
